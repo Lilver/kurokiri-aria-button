@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('./assets/aria.jpg') no-repeat;
+  background-size: cover;
+  background-position-y: 20%;
 }
 
 code {
